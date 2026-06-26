@@ -54,6 +54,11 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kNN6UzaznMi-bJiRNdij-13" value="入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-11">
+          <mxGeometry x="-0.0633" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
