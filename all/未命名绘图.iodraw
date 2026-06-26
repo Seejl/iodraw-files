@@ -128,11 +128,11 @@
         <mxCell id="kNN6UzaznMi-bJiRNdij-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="520" as="sourcePoint" />
-            <mxPoint x="565" y="610" as="targetPoint" />
+            <mxPoint x="565" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
