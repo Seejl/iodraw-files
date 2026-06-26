@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-1" value="plan_service任务计划类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="160" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
