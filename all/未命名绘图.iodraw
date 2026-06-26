@@ -28,7 +28,7 @@
             <mxPoint x="440" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-7" value="task_repository" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kNN6UzaznMi-bJiRNdij-7" value="task_repository&lt;div&gt;负责任务相关的数据库操作、文件操作&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
