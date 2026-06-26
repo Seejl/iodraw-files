@@ -102,17 +102,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kNN6UzaznMi-bJiRNdij-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="110" as="sourcePoint" />
-            <mxPoint x="580" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-22" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-20">
-          <mxGeometry x="-0.25" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kNN6UzaznMi-bJiRNdij-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="190" as="sourcePoint" />
