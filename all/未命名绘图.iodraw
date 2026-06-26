@@ -139,8 +139,8 @@
         <mxCell id="kNN6UzaznMi-bJiRNdij-41" value="实际任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
+        <mxCell id="kNN6UzaznMi-bJiRNdij-43" value="log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
