@@ -81,7 +81,7 @@
           <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-28" value="settings 集中管理参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-1" value="plan_service任务计划类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="210" height="60" as="geometry" />
@@ -90,11 +90,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-32">
-          <mxGeometry x="-0.0791" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-1" target="kNN6UzaznMi-bJiRNdij-2">
