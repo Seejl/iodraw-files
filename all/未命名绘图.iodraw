@@ -83,7 +83,7 @@
         <mxCell id="kNN6UzaznMi-bJiRNdij-28" value="settings 集中管理参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-1" value="plan_service任务计划类&lt;br&gt;（taskplan构建、修改）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kNN6UzaznMi-bJiRNdij-1" value="plan_service（taskplan构建、修改）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="160" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.326;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-1" target="kNN6UzaznMi-bJiRNdij-3">
