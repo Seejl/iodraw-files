@@ -32,7 +32,7 @@
           <mxGeometry x="490" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-8" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="630" y="460" width="60" height="80" as="geometry" />
+          <mxGeometry x="660" y="460" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-9" value="runner bash file" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="460" width="60" height="80" as="geometry" />
@@ -80,6 +80,9 @@
           <mxGeometry x="-0.1429" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kNN6UzaznMi-bJiRNdij-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
