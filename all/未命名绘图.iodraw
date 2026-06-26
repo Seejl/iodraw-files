@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kNN6UzaznMi-bJiRNdij-2" value="task_service 任务类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-3" value="cron_service 负责操作linux cron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="330" width="120" height="60" as="geometry" />
@@ -75,26 +75,6 @@
         <mxCell id="kNN6UzaznMi-bJiRNdij-17" value="更新任务信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-15">
           <mxGeometry x="-0.1429" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-1" target="kNN6UzaznMi-bJiRNdij-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="320" as="sourcePoint" />
-            <mxPoint x="440" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-21" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-19">
-          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-1" target="kNN6UzaznMi-bJiRNdij-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="190" as="sourcePoint" />
-            <mxPoint x="590" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="210" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-26" value="fastapi web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
