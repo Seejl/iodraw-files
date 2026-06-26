@@ -131,8 +131,8 @@
             <mxPoint x="565" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="kNN6UzaznMi-bJiRNdij-41" value="实际任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
