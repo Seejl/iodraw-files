@@ -131,6 +131,11 @@
             <mxPoint x="565" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kNN6UzaznMi-bJiRNdij-42" value="运行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-40">
+          <mxGeometry x="-0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-41" value="实际任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="590" width="120" height="60" as="geometry" />
         </mxCell>
