@@ -172,10 +172,10 @@
           <mxGeometry x="660" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-58" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1420" width="60" height="80" as="geometry" />
+          <mxGeometry x="300" y="1360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-59" value="runner bash file" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1414" width="60" height="80" as="geometry" />
+          <mxGeometry x="700" y="1360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-68" value="fastapi web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3" y="1080" width="120" height="60" as="geometry" />
@@ -190,13 +190,13 @@
           <mxGeometry x="-3" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-81" value="实际任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1530" width="120" height="60" as="geometry" />
+          <mxGeometry x="492" y="1510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-82" value="log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-85" value="flock" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="388" y="1370" width="44" height="44" as="geometry" />
+          <mxGeometry x="640" y="1378" width="44" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
