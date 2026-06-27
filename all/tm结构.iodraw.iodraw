@@ -183,7 +183,7 @@
           <mxGeometry x="550" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-58" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1350" width="60" height="80" as="geometry" />
+          <mxGeometry x="537" y="1490" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-59" value="runner bash file" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="640" y="1350" width="60" height="80" as="geometry" />
