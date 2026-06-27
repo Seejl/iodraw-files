@@ -241,32 +241,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-70" target="kNN6UzaznMi-bJiRNdij-52">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="1230" as="sourcePoint" />
-            <mxPoint x="427" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-74" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-73">
-          <mxGeometry x="0.04" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-70" target="kNN6UzaznMi-bJiRNdij-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="377" y="1230" as="sourcePoint" />
             <mxPoint x="427" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-52" target="kNN6UzaznMi-bJiRNdij-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="1230" as="sourcePoint" />
-            <mxPoint x="427" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-77" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-76">
-          <mxGeometry x="0.0286" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-78" value="TUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
