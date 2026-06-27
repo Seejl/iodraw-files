@@ -188,17 +188,6 @@
         <mxCell id="kNN6UzaznMi-bJiRNdij-59" value="runner bash file" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="522" y="1370" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.329;exitY=1.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-57" target="kNN6UzaznMi-bJiRNdij-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="1330" as="sourcePoint" />
-            <mxPoint x="427" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-61" value="生成 runner文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-60">
-          <mxGeometry x="-0.25" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-54" target="kNN6UzaznMi-bJiRNdij-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="377" y="1330" as="sourcePoint" />
@@ -229,23 +218,6 @@
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-70" value="plan_service（taskplan构建、修改）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447" y="1070" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.326;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-70" target="kNN6UzaznMi-bJiRNdij-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="1230" as="sourcePoint" />
-            <mxPoint x="427" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-72" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kNN6UzaznMi-bJiRNdij-71">
-          <mxGeometry x="-0.1561" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kNN6UzaznMi-bJiRNdij-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-70" target="kNN6UzaznMi-bJiRNdij-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="1230" as="sourcePoint" />
-            <mxPoint x="427" y="1180" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-78" value="TUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3" y="1230" width="120" height="60" as="geometry" />
