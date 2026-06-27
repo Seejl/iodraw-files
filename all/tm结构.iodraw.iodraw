@@ -157,6 +157,9 @@
         <mxCell id="kNN6UzaznMi-bJiRNdij-53" value="cron_service 负责操作linux cron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kNN6UzaznMi-bJiRNdij-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kNN6UzaznMi-bJiRNdij-54" target="kNN6UzaznMi-bJiRNdij-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kNN6UzaznMi-bJiRNdij-54" value="linux cron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="492" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
